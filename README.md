@@ -24,6 +24,7 @@ pip -r requirements.txt
 ```
 python -m visdom.server
 ```
+123
 
 
 
